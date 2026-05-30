@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="docs/assets/banner.png" alt="TaskOtter" width="100%">
+  <img src="https://github.com/taskotter/taskotter/blob/main/docs/assets/banner.png" alt="TaskOtter" width="100%">
 </p>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/assets/logo-dark-mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="docs/assets/logo-light-mode.svg">
-  <img alt="TaskOtter" src="docs/assets/logo-light-mode.svg" width="50">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-dark-mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-light-mode.svg">
+  <img alt="TaskOtter" src="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-light-mode.svg" width="50">
 </picture>
 
 # TaskOtter
