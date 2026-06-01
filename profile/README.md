@@ -5,9 +5,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-dark-mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-light-mode.svg">
-  <img alt="TaskOtter" src="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-light-mode.svg" width="50">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-transparent-mode.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-transparent-mode.png">
+  <img alt="TaskOtter" src="https://github.com/taskotter/taskotter/blob/main/docs/assets/logo-transparent-mode.png" width="50">
 </picture>
 
 # TaskOtter
